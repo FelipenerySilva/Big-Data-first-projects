@@ -1,5 +1,5 @@
 # Big-Data-Analytics-first-python-projects
-Repository containing Python data science projects of the Big Data course from the University of Newcastle (Uon) Master of Data Science Degree. 
+Repository containing Python data science projects of my Big Data course from the University of Newcastle (Uon) Master of Data Science Degree. 
 Presented in the form of Jupyter Notebooks.
 
 The projects were completed by me for academic, self learning, and hobby purposes. 
